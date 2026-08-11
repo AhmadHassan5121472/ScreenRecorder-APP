@@ -1,0 +1,15 @@
+{
+    "profile": "Standard",
+    "fps": 30,
+    "resolution": "Original",
+    "recording_area": "Full Screen",
+    "output_folder": "c:\\Users\\HP\\Documents\\Project\\ScreenRecorder\\recordings",
+    "microphone_enabled": false,
+    "system_audio_enabled": false,
+    "webcam_enabled": false,
+    "webcam_index": 0,
+    "webcam_width": 640,
+    "webcam_height": 480,
+    "webcam_fps": 30,
+    "capture_cursor": true
+}
